@@ -1,6 +1,7 @@
 # norovirus-gii
 Scheme for norovirus-gii
 
+# Duplicated from the currently under developement quick-lab/primerschemes repo.
 
 
 
